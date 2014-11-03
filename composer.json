@@ -1,5 +1,5 @@
 {
-    "name": "uecode/segment-io-php",
+    "name": "procreativeeu/segment-io-php",
     "description": "A PHP library for reporting events to the Segment.io API",
     "type": "library",
     "license": "MIT",
